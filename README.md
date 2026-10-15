@@ -14,8 +14,11 @@ La web presenta la informació principal de l'esdeveniment, incloent-hi les date
 
 ## Execució local
 
-1. Descarregar o clonar el repositori.
-2. Obrir el fitxer `index.html` amb qualsevol navegador web.
+1. Obrir el fitxer `index.html` amb qualsevol navegador web.
+
+o bé
+
+2. Obrir una terminal a la carpeta del projecte i executar: `http-server`
 
 ## Web publicada
 
